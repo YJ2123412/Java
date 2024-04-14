@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Basic/src"/>
+	<classpathentry kind="src" path="basic1.2/src"/>
+	<classpathentry kind="src" path="day03/src"/>
+	<classpathentry kind="src" path="day04/src"/>
+	<classpathentry kind="src" path="day05/src"/>
+	<classpathentry kind="src" path="day06/src"/>
+	<classpathentry kind="src" path="day07/src"/>
+	<classpathentry kind="src" path="day08/src"/>
+	<classpathentry kind="src" path="ddazzua/10/src"/>
+	<classpathentry kind="src" path="ddazzua/11/src"/>
+	<classpathentry kind="src" path="ddazzua/12/src"/>
+	<classpathentry kind="src" path="ddazzua/13/src"/>
+	<classpathentry kind="src" path="ddazzua/14/src"/>
+	<classpathentry kind="src" path="ddazzua/15/src"/>
+	<classpathentry kind="src" path="ddazzua/5/src"/>
+	<classpathentry kind="src" path="ddazzua/6/src"/>
+	<classpathentry kind="src" path="ddazzua/7/src"/>
+	<classpathentry kind="src" path="ddazzua/8/src"/>
+	<classpathentry kind="src" path="ddazzua/9/src"/>
+	<classpathentry kind="src" path="ddazzua/eleven/src"/>
+	<classpathentry kind="src" path="ddazzua/lesson 3/src"/>
+	<classpathentry kind="src" path="ddazzua/lesson4/src"/>
+	<classpathentry kind="src" path="ddazzua/Std/src"/>
+	<classpathentry kind="src" path="m_day01/src"/>
+	<classpathentry kind="src" path="m_day02/src"/>
+	<classpathentry kind="src" path="Self/src"/>
+	<classpathentry kind="src" path="self2/src"/>
+	<classpathentry kind="src" path="Test/src"/>
+	<classpathentry kind="output" path="Basic/bin"/>
+</classpath>

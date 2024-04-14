@@ -1,0 +1,44 @@
+package serial;
+
+import java.io.FileOutputStream;
+import java.io.ObjectInputStream;
+import java.io.ObjectOutputStream;
+
+public class SerialTest {
+
+	public static void main(String[] args) {
+
+		FileOutputStream fs =null;
+		ObjectOutputStream os = null;
+		
+		try {
+			fs = new FileOutputStream("Object_data.txt",false);
+			os = new ObjectOutputStream(fs);
+			
+			Person p1 = new Person("김철수",30);
+			os.writeObject(p1); 
+			System.out.println("파일생성");
+			
+		} catch (Exception e) {
+
+		}finally {
+			try {
+				if(os != null) {
+					os.close();
+				}
+				if(fs != null) {
+					fs.close();
+				}
+					
+					
+				
+				
+				
+			} catch (Exception e2) {
+
+			}
+		}
+		
+	}
+
+}
